@@ -1,44 +1,41 @@
 {
   "client.dll": {
-    "dwCSGOInput": 37044784,
-    "dwEntityList": 38688144,
-    "dwGameEntitySystem": 38688144,
-    "dwGameEntitySystem_highestEntityIndex": 8336,
-    "dwGameRules": 36958552,
-    "dwGlobalVars": 33945296,
-    "dwGlowManager": 36945744,
-    "dwLocalPlayerController": 36824832,
-    "dwLocalPlayerPawn": 36959896,
-    "dwPlantedC4": 37019528,
-    "dwPrediction": 36959648,
-    "dwSensitivity": 36948584,
-    "dwSensitivity_sensitivity": 88,
-    "dwViewAngles": 37046456,
-    "dwViewMatrix": 36981552,
-    "dwViewRender": 36982488,
-    "dwWeaponC4": 36424960
+    "dwCSGOInput": 39262864,
+    "dwEntityList": 40964168,
+    "dwGameEntitySystem": 40964168,
+    "dwGameEntitySystem_highestEntityIndex": 8480,
+    "dwGameRules": 39172760,
+    "dwGlobalVars": 35815176,
+    "dwGlowManager": 39159728,
+    "dwLocalPlayerController": 39007448,
+    "dwLocalPlayerPawn": 39175592,
+    "dwPlantedC4": 38555168,
+    "dwPrediction": 39175344,
+    "dwViewAngles": 39264536,
+    "dwViewMatrix": 39196912,
+    "dwViewRender": 39199152,
+    "dwWeaponC4": 38536496
   },
   "engine2.dll": {
-    "dwBuildNumber": 6343796,
-    "dwNetworkGameClient": 9478560,
-    "dwNetworkGameClient_clientTickCount": 888,
+    "dwBuildNumber": 6406636,
+    "dwNetworkGameClient": 9544016,
+    "dwNetworkGameClient_clientTickCount": 920,
     "dwNetworkGameClient_deltaTick": 588,
-    "dwNetworkGameClient_isBackgroundMap": 2888735,
+    "dwNetworkGameClient_isBackgroundMap": 2888767,
     "dwNetworkGameClient_localPlayer": 248,
     "dwNetworkGameClient_maxClients": 576,
     "dwNetworkGameClient_serverTickCount": 588,
     "dwNetworkGameClient_signOnState": 560,
-    "dwWindowHeight": 9496004,
-    "dwWindowWidth": 9496000
+    "dwWindowHeight": 9561308,
+    "dwWindowWidth": 9561304
   },
   "inputsystem.dll": {
-    "dwInputSystem": 273232
+    "dwInputSystem": 289728
   },
   "matchmaking.dll": {
-    "dwGameTypes": 1773440
+    "dwGameTypes": 1773520
   },
   "soundsystem.dll": {
-    "dwSoundSystem": 5317472,
-    "dwSoundSystem_engineViewData": 124
+    "dwSoundSystem": 5460800
   }
 }
